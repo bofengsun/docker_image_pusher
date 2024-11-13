@@ -5,8 +5,9 @@
 #bellsoft/liberica-openjdk-debian:17.0.11-cds
 #nacos/nacos-server:v2.3.0
 #wordpress:latest
-docker.io/bitnami/zookeeper:3.8
-docker.io/bitnami/kafka:3.4
+#docker.io/bitnami/zookeeper:3.8
+#docker.io/bitnami/kafka:3.4
+mysql:5.7
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
